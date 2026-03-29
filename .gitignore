@@ -1,0 +1,6 @@
+target/
+.idea/
+*.jar
+*.log
+.env
+application.properties
