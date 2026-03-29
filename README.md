@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6fda03ea-bf01-4b21-9423-f15b8978b6fb" />
+
 # 💊 Pharmacy Assistant Bot
 
 An AI-powered medical prescription management system that works on **Telegram** and **WhatsApp**. It helps users digitize their medical records, track medications, and manage health records for their entire family using advanced AI extraction.
